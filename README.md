@@ -11,12 +11,14 @@ Clean and simple user interface
 Data preprocessing and feature extraction
 Scalable structure for future improvements
 Can be extended with collaborative filtering or deep learning
+
 🧠 Machine Learning Concepts Used
 Content-Based Filtering
 Natural Language Processing (NLP)
 Vectorization using CountVectorizer / TF-IDF
 Cosine Similarity
 Feature Engineering
+
 🛠️ Tech Stack
 Python
 Pandas
